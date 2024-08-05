@@ -87,6 +87,7 @@
 <h3>GitHub Stats : </h3>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yadavankit671&show_icons=true&locale=en&layout=compact" alt="yadavankit671" style="margin: 10px;"/><br>
+  <!--
   <img src="https://github-readme-stats.vercel.app/api?username=yadavankit671&show_icons=true&locale=en" alt="yadavankit671" style="margin: 10px;"/><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yadavankit671&" alt="yadavankit671" style="margin: 10px;"/><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yadavankit671&" alt="yadavankit671" style="margin: 10px;"/><br> -->
 </p>
