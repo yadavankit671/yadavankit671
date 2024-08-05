@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **official.ank671@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Pt7aAGBkoAgpHuU5sD-b-JCS00KCRubJ/view?usp=sharing](https://drive.google.com/file/d/1Pt7aAGBkoAgpHuU5sD-b-JCS00KCRubJ/view?usp=sharing)
+- 📄 Know about my experiences here !! [(**resume**)](https://drive.google.com/file/d/1Pt7aAGBkoAgpHuU5sD-b-JCS00KCRubJ/view?usp=sharing)
 
 - ⚡ Fun fact **I can have a good cup of tea at any time of the day.**
 
