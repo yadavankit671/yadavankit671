@@ -84,7 +84,6 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yadavankit671" />
   </a>
 </p>
-<h3>GitHub Stats : </h3>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yadavankit671&show_icons=true&locale=en&layout=compact" alt="yadavankit671" style="margin: 10px;"/><br>
   <!--
