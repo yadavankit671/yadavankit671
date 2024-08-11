@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **official.ank671@gmail.com**
 
-- 📄 Know about my experiences here !! [(**resume**)](<a href="https://github.com/yadavankit671/yadavankit671/blob/main/Resume_26_July.pdf" target="_blank"><strong>resume</strong></a>)
+- 📄 Know about my experiences here !! [(**resume**)](Resume_26_July.pdf)
 
 - ⚡ Fun fact **I can have a good cup of tea at any time of the day.**
 <h3 align="left">Languages and Tools:</h3>
