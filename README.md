@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **official.ank671@gmail.com**
 
-- 📄 Know about my experiences here !! [(**resume**)](resume_feb_2025.pdf)
+- 📄 Know about my experiences here !! [(**resume**)](Ankit Kr Yadav resume.pdf)
 
 - ⚡ Fun fact **I can have a good cup of tea at any time of the day.**
 <h3 align="left">Languages and Tools:</h3>
