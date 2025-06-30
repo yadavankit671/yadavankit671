@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **official.ank671@gmail.com**
 
-- 📄 Know about my experiences here !! [(**resume**)](resume_30-06-2025)
+- 📄 Know about my experiences here !! [(**resume**)](resume_30-06-2025.pdf)
 
 - ⚡ Fun fact **I can have a good cup of tea at any time of the day.**
 <h3 align="left">Languages and Tools:</h3>
