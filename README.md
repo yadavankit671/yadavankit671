@@ -62,10 +62,11 @@ Backend-focused Software Engineer with experience in designing and building scal
 - OpenCV
 
 ### ⚙️ Programming Languages
-- C
-- C++
+- C/C++
+- Java
 - Python
-- Dart (basic)
+- C# (.Net)
+- Dart (Flutter)
 
 ### 🧰 Tools & Platforms
 - Git & GitHub
@@ -170,8 +171,20 @@ I'm open to backend engineering roles, collaborations, and AI-driven project ide
 
 ---
 
-<div align="center">
+---
 
-⭐ If you like my work, consider starring my repositories!
+## ☕ Support My Work
 
-</div>
+If you like what I build or find my projects helpful, you can support me here:
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/yadavankit671" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
+<p align="center">
+  Your support helps me keep building backend systems, AI projects, and open-source work 🚀
+</p>
+
+---
