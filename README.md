@@ -26,6 +26,9 @@ Building scalable backend systems and integrating AI into real-world application
   <a href="mailto:official.ank671@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail"/>
   </a>
+  <a href="Resume_June26.pdf">
+    <img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=readdotcv&logoColor=white"/>
+  </a>
 </p>
 
 ---
